@@ -1,7 +1,10 @@
 body {
-    cursor: url('/assets/images/cursor.png');
+    cursor: url("../images/cursor.png");
+    background-color: floralwhite;
 }
 
 .logo {}
 
-.navbar {}
+.navbar {
+    background-image: url(../images/hero.jpeg);
+}
