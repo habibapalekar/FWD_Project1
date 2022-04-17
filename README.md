@@ -1,8 +1,8 @@
 # FWD_Project1
 
-## LoFi Wireframes Ð
+## LoFi Wireframes
 
-![Lofi wireframes](/assets/images/wireframes.jpg)
+![Lofi wireframes](/assets/images/wireframes.JPG)
 
 ## Reflection -
 
@@ -26,7 +26,7 @@
 
 [Responsive navigation bar](https://www.makeuseof.com/responsive-navigation-bar-using-html-and-css/) 
 
-[CSS to include image in navigation bar] (https://www.w3schools.com/howto/howto_css_navbar_image.asp) 
+[CSS to include image in navigation bar](https://www.w3schools.com/howto/howto_css_navbar_image.asp) 
 
 [CSS for hero image](https://www.w3schools.com/howto/howto_css_hero_image.asp) 
 
