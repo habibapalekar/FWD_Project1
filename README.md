@@ -4,7 +4,7 @@
 
 ![Lofi wireframes](/assets/images/wireframes.JPG)
 
-## Reflection -
+## Reflection
 
 > Contour556 is an art festival targeted more towards an older audience and so this redesign of the website seeks to be more user friendly for an audience over the age of 30. The homepage is designed to be simple and straightforward without including too much text on one page. The original Contour 556 websiteÕs navigation bar is placed in the top right corner. In the redesign, this navigation is bar is brought to the centre below to logo to draw more attention. Some pages in the navigation bar have been combined to avoid confusing the viewer and some have been moved to the footer depending on importance. The about us page was redesigned to include both the original about us page as well as the people page. While the donate page would include both, the donation information along with the list of supporters which is originally two separate pages.
 
@@ -22,7 +22,7 @@
 
 >
 
-## References Ð
+## References
 
 [Responsive navigation bar](https://www.makeuseof.com/responsive-navigation-bar-using-html-and-css/) 
 
